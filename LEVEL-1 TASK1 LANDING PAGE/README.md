@@ -7,3 +7,4 @@ A landing page is one of the best web development projects for beginners. This p
 Tech Stack - HTML, CSS , JS , BOOTSTRAP
 
 Project Demo: 
+![ATFY](https://github.com/biswajitpat/OIBSIP/assets/91446639/3f1817e5-95c9-4b6f-b460-f9cea41c8dbd)
